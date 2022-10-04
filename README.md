@@ -6,6 +6,8 @@ The project is completed in Q3 2021.
 <img src="https://user-images.githubusercontent.com/21167984/193593493-8cdf39be-4885-4ba6-a70c-4b82b353fef2.PNG" width="200"> <img src="https://user-images.githubusercontent.com/21167984/193795669-d742e2fb-d2b0-4742-b1b7-ab67f8b81542.png" width="200">
 
 ## Parameters for PCB order (JLCPCB compatible)
+2 layer board
+
 0.8mm thickness
 
 0.3mm min hole size
